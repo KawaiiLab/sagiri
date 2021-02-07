@@ -7,8 +7,7 @@
 <p align="center">
 <a href="https://lyn.moe"><img alt="Author" src="https://img.shields.io/badge/Author-Lyn-blue.svg?style=for-the-badge"/></a>
 <a href="https://www.npmjs.com/package/@kawaiilab/sagiri"><img alt="Version" src="https://img.shields.io/npm/v/@kawaiilab/sagiri.svg?style=for-the-badge"/></a>
-<img alt="License" src="https://img.shields.io/github/license
-/@kawaiilab/sagiri.svg?style=for-the-badge"/>
+<img alt="License" src="https://img.shields.io/github/license/kawaiilab/sagiri.svg?style=for-the-badge"/>
 </p>
 
 ***
