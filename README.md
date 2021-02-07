@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://lyn.moe"><img alt="Author" src="https://img.shields.io/badge/Author-Lyn-blue.svg?style=for-the-badge"/></a>
-<a href="https://www.npmjs.com/package/@kawaiiLab/sagiri"><img alt="Version" src="https://img.shields.io/npm/v/@kawaiilab/sagiri.svg?style=for-the-badge"/></a>
+<a href="https://www.npmjs.com/package/@kawaiilab/sagiri"><img alt="Version" src="https://img.shields.io/npm/v/@kawaiilab/sagiri.svg?style=for-the-badge"/></a>
 <img alt="License" src="https://img.shields.io/github/license
 /@kawaiilab/sagiri.svg?style=for-the-badge"/>
 </p>
@@ -65,9 +65,9 @@ Have look at `./example` folder
 
 ### Related
 
-[KawaiiLab/sagiri-cli](https://github.com/KawaiiLab/sagiri-cli)
+[kawaiilab/sagiri-cli](https://github.com/kawaiilab/sagiri-cli)
 
-[KawaiiLab/sagiri-web](https://github.com/KawaiiLab/sagiri-web)
+[kawaiilab/sagiri-web](https://github.com/kawaiilab/sagiri-web)
 
 ### Credit
 
