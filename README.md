@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="example/01-input.png">
+  <img src="https://raw.githubusercontent.com/kawaiilab/sagiri/master/example/01-input.png">
 </p>
 
 <p align="center">🔑 En/decrypt images in a kawaii way</p>

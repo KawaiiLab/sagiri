@@ -1,6 +1,6 @@
 {
   "name": "@kawaiilab/sagiri",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "🔑 En/decrypt images in a kawaii way",
   "main": "source/index.js",
   "scripts": {
