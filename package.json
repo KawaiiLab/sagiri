@@ -1,0 +1,29 @@
+{
+  "name": "@kawaiilab/sagiri",
+  "version": "1.0.1",
+  "description": "🔑 En/decrypt images in a kawaii way",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "node ./example/01-encrypt.js && node ./example/02-decrypt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawaiilab/sagiri.git"
+  },
+  "author": "Lyn Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kawaiilab/sagiri/issues"
+  },
+  "homepage": "https://github.com/kawaiilab/sagiri#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  },
+  "devDependencies": {
+    "canvas": "^2.6.1",
+    "image-js": "^0.31.4"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
